@@ -36,8 +36,8 @@ Users can choose between a local SQLite3 database (student.db) or connect to the
 
 **Use Cases:**
 
-Rapid querying of student or academic databases.
+* Rapid querying of student or academic databases.
 
-Conversational analytics dashboards.
+* Conversational analytics dashboards.
 
-Interactive data exploration tools for non-technical users.
+* Interactive data exploration tools for non-technical users.
